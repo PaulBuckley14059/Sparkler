@@ -1,0 +1,10 @@
+C:\Projects\Sparkler\Sparkler\bin\Debug\Sparkler.exe.config
+C:\Projects\Sparkler\Sparkler\bin\Debug\Sparkler.exe
+C:\Projects\Sparkler\Sparkler\bin\Debug\Sparkler.pdb
+C:\Projects\Sparkler\Sparkler\obj\Debug\Sparkler.csprojAssemblyReference.cache
+C:\Projects\Sparkler\Sparkler\obj\Debug\Sparkler.FrmMain.resources
+C:\Projects\Sparkler\Sparkler\obj\Debug\Sparkler.Properties.Resources.resources
+C:\Projects\Sparkler\Sparkler\obj\Debug\Sparkler.csproj.GenerateResource.cache
+C:\Projects\Sparkler\Sparkler\obj\Debug\Sparkler.csproj.CoreCompileInputs.cache
+C:\Projects\Sparkler\Sparkler\obj\Debug\Sparkler.exe
+C:\Projects\Sparkler\Sparkler\obj\Debug\Sparkler.pdb
